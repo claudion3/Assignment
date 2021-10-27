@@ -1,3 +1,20 @@
 .app {
-	text-align: center;
+	margin: 2rem;
+}
+.inputSearch {
+	margin-bottom: 2rem;
+}
+.inputSearch > input {
+	width: 20%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	display: inline-block;
+	border: 1px solid #ccc;
+	border-radius: 4px;
+	box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+}
+
+.table {
+	height: 500px;
+	width: 100%;
 }
