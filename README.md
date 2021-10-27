@@ -1,6 +1,8 @@
 # Assignment was written in React and TypeScript
 
 ### `Image`
+![personData](https://user-images.githubusercontent.com/36760389/139158337-6b01e647-382d-4613-9e1c-fdb9f1caf080.PNG)
+
 
 ## Available Scripts
 
