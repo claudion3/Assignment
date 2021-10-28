@@ -1,7 +1,7 @@
 # Assignment was written in React and TypeScript
 
 ### `Image`
-![personData](https://user-images.githubusercontent.com/36760389/139158337-6b01e647-382d-4613-9e1c-fdb9f1caf080.PNG)
+![EmployeeData](https://user-images.githubusercontent.com/36760389/139250418-1d1d2f2b-1577-49ae-9402-fe06c64f0db4.PNG)
 
 
 ## Available Scripts
