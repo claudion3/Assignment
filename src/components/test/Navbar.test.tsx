@@ -15,6 +15,6 @@ describe('Navbar component', () => {
 
 	it('renders Navbar correctly', () => {
 		const { getByTestId } = render(<Navbar />);
-		expect(getByTestId('navbar')).toHaveTextContent('Person Data');
+		expect(getByTestId('navbar')).toHaveTextContent('Employee Data');
 	});
 });

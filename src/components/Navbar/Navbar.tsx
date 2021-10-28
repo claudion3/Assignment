@@ -21,7 +21,7 @@ export class Navbar extends Component {
 		return (
 			<nav className={style.navbar} data-testid='navbar'>
 				<div className={style.navbar_logo}>
-					<h2>Person Data </h2>
+					<h2>Employee Data </h2>
 				</div>
 				<div className={style.hamburger_menu}>
 					<div></div>
