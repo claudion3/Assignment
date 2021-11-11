@@ -32,7 +32,7 @@ function App(): JSX.Element {
 					<input
 						type='text'
 						placeholder='Search...'
-						value={debouncedQuery}
+						value={query}
 						onChange={e => setQuery(e.target.value)}
 					/>
 				</div>

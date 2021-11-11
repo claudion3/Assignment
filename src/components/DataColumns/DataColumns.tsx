@@ -2,10 +2,6 @@ import { GridColDef } from '@mui/x-data-grid';
 import { Link } from '@mui/material';
 //https://mui.com/api/data-grid/grid-col-def/
 
-export type Row = {
-	row: () => void;
-};
-
 export const DataColumns: GridColDef[] = [
 	{ field: 'name', headerName: 'Full name', width: 200 },
 	{ field: 'gender', headerName: 'Gender', width: 100 },
